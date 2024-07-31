@@ -1,0 +1,49 @@
+header{
+    height: 400px;
+    background-color: darkred;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20200914/pngtree-splattered-blood-drops-halloween-blood-background-image_398578.jpg);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+display: flex;
+justify-content: center;
+}
+
+.container{
+    background-color: darkred;
+    width: 80%;
+    padding: 20px;
+}
+
+.block1{
+font-size: 20px;
+text-align: justify;
+}
+
+.block2{
+    text-align: center;
+}
+
+.block3{
+    width: 80%;
+    padding: 20px
+}
+.social img {
+    width: 100px; 
+    padding-left: 10px;
+}
+.social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
